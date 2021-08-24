@@ -1,15 +1,15 @@
 <p align="middle">
-<img align="middle" height="96" src="assets/ayyybubu/forsenShrimp/original.png">
+<img align="middle" height="96" src="https://images2.imgbox.com/ab/ab/db7427Ns_o.png">
 <p>
 <h1 align="middle">Chatsen</h1>
 
 <p align="middle" float="left">
-  <a href="https://discord.gg/chatsen"><img src="https://img.shields.io/discord/758710852756570153?color=5865F2&label=discord"></a>
+  <a href="https://discord.gg/chatsen"><img src="https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=5865F2&labelColor=5C5C5C"></a>
   <a href="https://hanadigital.github.io/grev/?user=chatsen&repo=chatsen"><img src="https://img.shields.io/github/downloads/chatsen/chatsen/total?color=23B14D"></a>
   <a><img src="https://img.shields.io/github/license/chatsen/chatsen"></a>
 </p>
 <p align="middle" float="left">
-  <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://beatscratch.io/assets/testflight-badge.png"></a>
+  <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://images2.imgbox.com/e2/ff/QCNowW0F_o.png"></a>
   <a href="https://play.google.com/store/apps/details?id=com.chatsen.chatsen"><img height="75" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 </p>
 
