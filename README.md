@@ -34,8 +34,8 @@ You can find the latest release for supported platforms (iOS, Android) [here](ht
 - [ ] F-Droid Store
 
 # Supported platforms
-- [x] Android 5+ **(>=4.1 && <5.0 also supported but without login/video player)
-- [x] iOS 12.2+ **(Compatibility: Lowest supported iOS version is 9.0, but some things might not work since it's so old)
+- [x] Android 5+ **(>=4.1 && <5.0 also supported but without login/video player)**
+- [x] iOS 12.2+ **(Compatibility: Lowest supported iOS version is 9.0, but some things might not work since it's so old)**
 
 # Support and donations
 Support the project on Patreon and get some cool badges next to your username in return!
