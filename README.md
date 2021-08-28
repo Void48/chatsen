@@ -25,7 +25,7 @@ It also features a built-in video player and a variety of other features, such a
 </p>
 
 # Downloads
-You can find the latest release for supported platforms (iOS, Android) [here](https://github.com/Chatsen/chatsen/releases).
+You can find the latest release for supported platforms **(iOS, Android)** [here](https://github.com/Chatsen/chatsen/releases).
 
 # Store Releases
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.chatsen.chatsen)
@@ -80,7 +80,7 @@ This project and it's releases are provided as-is, no support is provided. Use a
 
 # Privacy Policy
 Chatsen does not collect any personal or identifying information whatsoever. There are no servers, services or backend running related to the project either.  
-Since Chatsen interfaces with Twitch however, you are subject to their Privacy Policy available at https://www.twitch.tv/p/en/legal/privacy-notice/
+Since Chatsen uses the Twitch API, however, you are subject to their Privacy Policy available at https://www.twitch.tv/p/en/legal/privacy-notice/
 
 # Contact
 - Discord: https://discord.gg/chatsen
