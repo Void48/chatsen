@@ -70,7 +70,7 @@ flutter pub run flutter_launcher_icons:main
 flutter build ios --no-codesign
 ```
 
-You may also check the Github Actions file [here](https://github.com/chatsen/chatsen/blob/master/.github/workflows/main.yml) for more details.
+You may also check the GitHub Actions file [here](https://github.com/chatsen/chatsen/blob/master/.github/workflows/main.yml) for more details.
 
 # Licensing
 Chatsen is distributed under the AGPLv3 licence. A copy may be found in the LICENCE file in that repository. All the dependencies remain under their original licenses.
