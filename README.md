@@ -80,7 +80,7 @@ This project and it's releases are provided as-is, no support is provided. Use a
 
 # Privacy Policy
 Chatsen does not collect any personal or identifying information whatsoever. There are no servers, services or backend running related to the project either.  
-Since Chatsen uses the Twitch API, however, you are subject to their Privacy Policy available at https://www.twitch.tv/p/en/legal/privacy-notice/
+Since Chatsen uses the Twitch API, however, you are subject to their Privacy Policy available at: https://www.twitch.tv/p/en/legal/privacy-notice/
 
 # Contact
 - Discord: https://discord.gg/chatsen
