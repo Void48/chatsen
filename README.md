@@ -9,7 +9,7 @@
   <a><img src="https://img.shields.io/github/license/chatsen/chatsen"></a>
 </p>
 <p align="middle" float="left">
-  <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://images2.imgbox.com/e2/ff/QCNowW0F_o.png"></a>
+  <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://images2.imgbox.com/b4/15/OpurwkOR_o.png"></a>
   <a href="https://play.google.com/store/apps/details?id=com.chatsen.chatsen"><img height="75" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 </p>
 
