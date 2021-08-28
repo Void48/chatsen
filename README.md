@@ -50,7 +50,7 @@ Note: the .ipa file is not signed but will be signed automatically with AltStore
 **(A more detailed sideloading guide can be found as a pinned message in the #ios channel in the Discord server.)**
 
 # Build instructions
-To build Chatsen, all you should need is the Flutter SDK on the **master** branch and it's require dependencies for your platform (Android Studio for Android and Xcode for iOS).  
+To build Chatsen, all you should need is the Flutter SDK on the **master** branch and it's required dependencies for your platform (Android Studio for Android and Xcode for iOS).  
 Running the following commands should allow you to build the application successfully:
 
 ```bash
