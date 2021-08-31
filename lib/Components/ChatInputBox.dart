@@ -1,7 +1,9 @@
 import 'dart:async';
+import 'dart:io';
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:chatsen/Commands/CommandsCubit.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -154,7 +156,7 @@ class ChatInputBoxState extends State<ChatInputBox> {
               if (kDebugMode || widget.channel?.transmitter?.credentials?.token != null) ...[
                 if (autocompletionCommands.isNotEmpty)
                   Container(
-                    height: 32.0,
+                    height: 40.0,
                     child: ListView(
                       scrollDirection: Axis.horizontal,
                       children: autocompletionCommands,
@@ -162,7 +164,7 @@ class ChatInputBoxState extends State<ChatInputBox> {
                   ),
                 if (autocompletionItemsUsers.isNotEmpty)
                   Container(
-                    height: 32.0,
+                    height: 40.0,
                     child: ListView(
                       scrollDirection: Axis.horizontal,
                       children: autocompletionItemsUsers,
@@ -170,7 +172,7 @@ class ChatInputBoxState extends State<ChatInputBox> {
                   ),
                 if (autocompletionItems.isNotEmpty)
                   Container(
-                    height: 48.0,
+                    height: 56.0,
                     child: ListView(
                       scrollDirection: Axis.horizontal,
                       children: autocompletionItems,
@@ -203,8 +205,8 @@ class ChatInputBoxState extends State<ChatInputBox> {
                         ),
                       ),
                       Container(
-                        width: 32.0,
-                        height: 32.0,
+                        width: 40.0,
+                        height: 40.0,
                         child: InkWell(
                           onTap: () async {
                             await UploadModal.show(
@@ -213,14 +215,14 @@ class ChatInputBoxState extends State<ChatInputBox> {
                             );
                           },
                           child: Icon(
-                            Icons.file_present,
+                            (Platform.isMacOS || Platform.isIOS) ? CupertinoIcons.photo_fill : Icons.file_present,
                             color: Theme.of(context).colorScheme.onSurface.withAlpha(64 * 3),
                           ),
                         ),
                       ),
                       Container(
-                        width: 32.0,
-                        height: 32.0,
+                        width: 40.0,
+                        height: 40.0,
                         child: InkWell(
                           onTap: () async {
                             await showModalBottomSheet(
@@ -249,14 +251,14 @@ class ChatInputBoxState extends State<ChatInputBox> {
                             );
                           },
                           child: Icon(
-                            Icons.emoji_emotions_outlined,
+                            (Platform.isMacOS || Platform.isIOS) ? CupertinoIcons.smiley : Icons.emoji_emotions_outlined,
                             color: Theme.of(context).colorScheme.onSurface.withAlpha(64 * 3),
                           ),
                         ),
                       ),
                       Container(
-                        width: 32.0,
-                        height: 32.0,
+                        width: 40.0,
+                        height: 40.0,
                         child: GestureDetector(
                           behavior: HitTestBehavior.translucent,
                           onTapDown: (e) {
@@ -284,7 +286,7 @@ class ChatInputBoxState extends State<ChatInputBox> {
                           child: InkWell(
                             onTap: () => send(textEditingController.text),
                             child: Icon(
-                              Icons.send,
+                              (Platform.isMacOS || Platform.isIOS) ? CupertinoIcons.arrow_right_circle : Icons.send,
                               color: Theme.of(context).colorScheme.onSurface.withAlpha(64 * 3),
                             ),
                           ),
@@ -315,9 +317,11 @@ class ChatInputBoxState extends State<ChatInputBox> {
                   focusNode.requestFocus();
                   setState(() {});
                 },
-                child: Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: Text(user),
+                child: Center(
+                  child: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Text(user),
+                  ),
                 ),
               ),
       ];
@@ -345,9 +349,11 @@ class ChatInputBoxState extends State<ChatInputBox> {
                     ],
                   ),
                 ),
-                child: Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: Text(cmd.trigger),
+                child: Center(
+                  child: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Text(cmd.trigger),
+                  ),
                 ),
               ),
             ),
