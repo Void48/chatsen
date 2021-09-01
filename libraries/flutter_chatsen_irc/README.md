@@ -4,7 +4,7 @@ Chatsen IRC is a cross-platform library mainly used for Chatsen1. This version i
 
 # Usage
 
-This project and it's releases are provided as-is, no support is provided. Use at your own discretion.
+This project and its releases are provided as-is, no support is provided. Use at your own discretion.
 
 # Licensing
 
