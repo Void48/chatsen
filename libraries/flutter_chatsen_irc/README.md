@@ -9,4 +9,4 @@ No support or help with anything related to this project is guaranteed. If your 
 
 # Licensing
 
-Chatsen IRC is distributed under the AGPLv3 licence. A copy may be found in the LICENCE file in that repository. All the dependencies remain under their original licenses.
+Chatsen IRC is distributed under the AGPLv3 licence. A copy may be found in the LICENSE file in that repository. All the dependencies remain under their original licenses.
