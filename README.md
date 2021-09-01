@@ -1,15 +1,15 @@
 <p align="middle">
-<img align="middle" height="96" src="assets/ayyybubu/forsenShrimp/original.png">
+<img align="middle" height="100" src="https://images2.imgbox.com/c8/44/ZXEEH8QQ_o.png">
 <p>
 <h1 align="middle">Chatsen</h1>
 
 <p align="middle" float="left">
-  <a href="https://discord.gg/chatsen"><img src="https://img.shields.io/discord/758710852756570153?color=5865F2&label=discord"></a>
+  <a href="https://discord.gg/chatsen"><img src="https://img.shields.io/discord/758710852756570153?color=5865F2&label=chat&logo=discord&logoColor=white"></a>
   <a href="https://hanadigital.github.io/grev/?user=chatsen&repo=chatsen"><img src="https://img.shields.io/github/downloads/chatsen/chatsen/total?color=23B14D"></a>
-  <a><img src="https://img.shields.io/github/license/chatsen/chatsen"></a>
+  <a href="https://github.com/chatsen/chatsen/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chatsen/chatsen"></a>
 </p>
 <p align="middle" float="left">
-  <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://beatscratch.io/assets/testflight-badge.png"></a>
+  <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://images2.imgbox.com/b4/15/OpurwkOR_o.png"></a>
   <a href="https://play.google.com/store/apps/details?id=com.chatsen.chatsen"><img height="75" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 </p>
 
@@ -25,17 +25,17 @@ It also features a built-in video player and a variety of other features, such a
 </p>
 
 # Downloads
-You can find the latest release for supported platforms (iOS, Android) [here](https://github.com/Chatsen/chatsen/releases).
+You can find the latest release for supported platforms **(iOS, Android)** [here](https://github.com/Chatsen/chatsen/releases).
 
 # Store Releases
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.chatsen.chatsen)
 - [x] [Apple TestFlight](https://testflight.apple.com/join/I7Fm27MH)
-- [ ] App Store (release soon, available on TestFlight or by sideloading)
+- [ ] App Store **(release soon, available on TestFlight or by sideloading)**
 - [ ] F-Droid Store
 
 # Supported platforms
-- [x] Android 5+ (>=4.1 && <5.0 also supported but without login/video player)
-- [x] iOS 12.2+
+- [x] Android 5+ **(>=4.1 && <5.0 also supported but without login/video player)**
+- [x] iOS 12.2+ **(Compatibility: Lowest supported iOS version is 9.0, but some things might not work since it's so old)**
 
 # Support and donations
 Support the project on Patreon and get some cool badges next to your username in return!
@@ -47,9 +47,10 @@ https://www.patreon.com/chatsen
 - Open the .ipa file with AltStore on your iPhone
 
 Note: the .ipa file is not signed but will be signed automatically with AltStore on your device.
+**(A more detailed sideloading guide can be found as a pinned message in the #ios channel in the Discord server.)**
 
 # Build instructions
-To build Chatsen, all you should need is the Flutter SDK on the **master** branch and it's require dependencies for your platform (Android Studio for Android and XCode for iOS).  
+To build Chatsen, all you should need is the Flutter SDK on the **master** branch and its required dependencies for your platform [(Android Studio for Android](https://developer.android.com/studio) and [Xcode for iOS)](https://developer.apple.com/xcode/resources/).  
 Running the following commands should allow you to build the application successfully:
 
 ```bash
@@ -69,17 +70,17 @@ flutter pub run flutter_launcher_icons:main
 flutter build ios --no-codesign
 ```
 
-You may also check the Github Actions file [here](https://github.com/chatsen/chatsen/blob/master/.github/workflows/main.yml) for more details.
+You may also check the GitHub Actions file [here](https://github.com/chatsen/chatsen/blob/master/.github/workflows/main.yml) for more details.
 
 # Licensing
-Chatsen is distributed under the AGPLv3 licence. A copy may be found in the LICENCE file in that repository. All the dependencies remain under their original licenses.
+Chatsen is distributed under the AGPLv3 licence. A copy may be found in the LICENSE file in that repository. All the dependencies remain under their original licenses.
 
 # Usage
-This project and it's releases are provided as-is, no support is provided. Use at your own discretion.
+This project and its releases are provided as-is, no support is provided. Use at your own discretion.
 
 # Privacy Policy
 Chatsen does not collect any personal or identifying information whatsoever. There are no servers, services or backend running related to the project either.  
-Since Chatsen interfaces with Twitch however, you are subject to their Privacy Policy available at https://www.twitch.tv/p/en/legal/privacy-notice/
+Since Chatsen uses the Twitch API, however, you are subject to their Privacy Policy available at: https://www.twitch.tv/p/en/legal/privacy-notice/
 
 # Contact
 - Discord: https://discord.gg/chatsen
