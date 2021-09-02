@@ -4,7 +4,7 @@
 <h1 align="middle">Chatsen</h1>
 
 <p align="middle" float="left">
-  <a href="https://discord.gg/chatsen"><img src="https://img.shields.io/discord/758710852756570153?color=5865F2&label=chat&logo=discord&logoColor=white"></a>
+  <a href="https://chatsen.app/discord"><img src="https://img.shields.io/discord/758710852756570153?color=5865F2&label=chat&logo=discord&logoColor=white"></a>
   <a href="https://hanadigital.github.io/grev/?user=chatsen&repo=chatsen"><img src="https://img.shields.io/github/downloads/chatsen/chatsen/total?color=23B14D"></a>
   <a href="https://github.com/chatsen/chatsen/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chatsen/chatsen"></a>
 </p>
