@@ -1,5 +1,5 @@
 <p align="middle">
-<img align="middle" height="100" src="https://u.cubeupload.com/Void48/logo.png">
+<img align="middle" height="100" src="https://raw.githubusercontent.com/Void48/chatsen.readme.improvements/master/assets/ayyybubu/logo.png">
 <p>
 <h1 align="middle">Chatsen</h1>
 
