@@ -31,8 +31,8 @@ You can find the latest release for supported platforms **(iOS, Android)** [here
 
 # Store Releases
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.chatsen.chatsen)
-- [x] [Apple TestFlight](https://testflight.apple.com/join/I7Fm27MH)
 - [x] [App Store](https://apps.apple.com/us/app/chatsen/id1574037007)
+- [x] [Apple TestFlight](https://testflight.apple.com/join/I7Fm27MH)
 - [ ] F-Droid Store
 
 # Supported platforms
