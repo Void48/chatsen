@@ -24,13 +24,15 @@ It also features a built-in video player and a variety of other features, such a
   <img src="https://raw.githubusercontent.com/chatsen/resources/master/assets/screenshots/4.png" width="200" />
 </p>
 
+The Chatsen logo was graciously made by @ayyybubu! You can find him on [Twitter](https://twitter.com/ayyybubu) or [Twitch](https://twitch.tv/ayyybubu)
+
 # Downloads
 You can find the latest release for supported platforms **(iOS, Android)** [here](https://github.com/Chatsen/chatsen/releases).
 
 # Store Releases
 - [x] [Play Store](https://play.google.com/store/apps/details?id=com.chatsen.chatsen)
 - [x] [Apple TestFlight](https://testflight.apple.com/join/I7Fm27MH)
-- [ ] App Store **(release soon, available on TestFlight or by sideloading)**
+- [x] [App Store](https://apps.apple.com/us/app/chatsen/id1574037007)
 - [ ] F-Droid Store
 
 # Supported platforms
@@ -40,14 +42,6 @@ You can find the latest release for supported platforms **(iOS, Android)** [here
 # Support and donations
 Support the project on Patreon and get some cool badges next to your username in return!
 https://www.patreon.com/chatsen
-  
-# iOS Sideloading Guide
-- Install AltStore on your device https://altstore.io/
-- Download the .ipa file available on the [release page](https://github.com/Chatsen/chatsen/releases)
-- Open the .ipa file with AltStore on your iPhone
-
-Note: the .ipa file is not signed but will be signed automatically with AltStore on your device.
-**(A more detailed sideloading guide can be found as a pinned message in the #ios channel in the Discord server.)**
 
 # Build instructions
 To build Chatsen, all you should need is the Flutter SDK on the **master** branch and its required dependencies for your platform [(Android Studio for Android](https://developer.android.com/studio) and [Xcode for iOS)](https://developer.apple.com/xcode/resources/).  
