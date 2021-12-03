@@ -9,7 +9,7 @@
   <a href="https://github.com/chatsen/chatsen/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chatsen/chatsen"></a>
 </p>
 <p align="middle" float="left">
-<a href="https://apps.apple.com/us/app/chatsen/id1574037007"><img height="74" src="https://user-images.githubusercontent.com/85196642/144486548-36481d7e-4669-41ba-ab9c-890166f456e8.png"></a>
+<a href="https://apps.apple.com/us/app/chatsen/id1574037007"><img height="75" src="https://user-images.githubusercontent.com/85196642/144549880-7fb6b342-a9f9-47e3-a78d-b4b23e9d4b3e.png"></a>
   <a href="https://testflight.apple.com/join/I7Fm27MH"><img height="75" src="https://raw.githubusercontent.com/Void48/chatsen.readme.improvements/master/assets/testflightbadge.png"></a>
   <a href="https://play.google.com/store/apps/details?id=com.chatsen.chatsen"><img height="75" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 </p>
