@@ -45,7 +45,7 @@ Support the project on Patreon and get some cool badges next to your username in
 https://www.patreon.com/chatsen
 
 # Build instructions
-To build Chatsen, all you should need is the Flutter SDK on the **master** branch and its required dependencies for your platform [(Android Studio for Android](https://developer.android.com/studio) and [Xcode for iOS)](https://developer.apple.com/xcode/resources/).  
+To build Chatsen, all you should need is the [Flutter SDK](https://docs.flutter.dev/development/tools/sdk/releases) on the **master** branch and its required dependencies for your platform [(Android Studio for Android](https://developer.android.com/studio) and [Xcode for iOS)](https://developer.apple.com/xcode/resources/).  
 Running the following commands should allow you to build the application successfully:
 
 ```bash
