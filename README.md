@@ -14,8 +14,8 @@
   <a href="https://play.google.com/store/apps/details?id=com.chatsen.chatsen"><img height="75" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></a>
 </p>
 
-Chatsen is a cross-platform application that allows you to chat on Twitch with support for 3rd-party services such as 7TV, BTTV and FFZ.  
-It also features a built-in video player and a variety of other features, such as auto-completion, notifications (on supported platforms), whispers, and more to come!
+Chatsen is a cross-platform application that allows you to chat on Twitch with support for 3rd-party emote services such as 7TV, BTTV and FFZ.  
+It also features a built-in video player and a variety of other features, such as auto-completion, notifications (on supported platforms), whispers, ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ and more to come..!
 
 # Media
 <p align="middle" float="left">
