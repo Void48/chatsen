@@ -25,7 +25,7 @@ It also features a built-in video player and a variety of other features, such a
   <img src="https://raw.githubusercontent.com/chatsen/resources/master/assets/screenshots/4.png" width="200" />
 </p>
 
-The Chatsen logo was Made with ❤️ by @ayyybubu! You can find him on [Twitter](https://twitter.com/ayyybubu) or [Twitch](https://twitch.tv/ayyybubu)
+The Chatsen logo was **Made with ![heart](https://user-images.githubusercontent.com/85196642/153342383-0c4da510-a3f9-4070-8e3d-2cedd66508df.svg)** by @ayyybubu! You can find him on [Twitter](https://twitter.com/ayyybubu) or [Twitch](https://twitch.tv/ayyybubu)
 
 # Downloads
 You can find the latest release for supported platforms **(iOS, Android)** [here](https://github.com/Chatsen/chatsen/releases).
